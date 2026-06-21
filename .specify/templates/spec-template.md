@@ -14,9 +14,9 @@
 
 ## Functional Requirements
 
-1. [Requirement 1]
-2. [Requirement 2]
-3. [Requirement 3]
+ [Requirement 1]
+ [Requirement 2]
+ [Requirement 3]
 
 ## Non-Functional Requirements
 
